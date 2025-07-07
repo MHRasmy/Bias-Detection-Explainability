@@ -1,6 +1,6 @@
 
 # Bias Detection & Explainability in Text-Based Hiring Models  
-48-Hour Technical Challenge — Track CIS-2025-19
+48-Hour Technical Challenge
 
 ## 1  Overview
 This repo hosts the code, data-processing pipeline, and analysis used to
